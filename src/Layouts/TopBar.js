@@ -2,10 +2,10 @@
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
-import Popup from '../../Components/Modal/Popup';
+import Popup from '../Components/Modal/Popup';
 import React, { useState, useEffect } from 'react';
 import { Dropdown } from 'react-bootstrap';
-import '../../Pages/LoginPage/login.css';
+import '../Pages/LoginPage/login.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import VisibilityIcon from '@mui/icons-material/Visibility';
 import { makeStyles } from '@mui/styles';

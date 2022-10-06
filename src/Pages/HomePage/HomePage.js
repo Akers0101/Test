@@ -1,5 +1,5 @@
 import React from 'react';
-import './home.css';
+
 import FirstLogin from '../LoginPage/FirstLogin';
 import Login from '../LoginPage/LoginPage';
 import MyAssignment from '../HomePage/MyAssignment';
