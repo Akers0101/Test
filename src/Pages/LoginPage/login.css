@@ -1,0 +1,24 @@
+.center_Form {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-userName {
+  width: 100%;
+  padding: 1rem 3rem;
+  margin: 8px 0;
+  display: inline-block;
+
+  box-sizing: border-box;
+}
+
+.btn-password {
+  width: 100%;
+  padding: 1rem 3rem;
+  margin: 8px 0;
+  display: inline-block;
+
+  box-sizing: border-box;
+}

@@ -58,11 +58,7 @@ const Leftbar = () => {
           height: 200,
         }}
       >
-        <CardMedia
-          component="img"
-          image={require('../../Assets/Images/nashtech-logo.jpg')}
-          alt="logo"
-        />
+        <CardMedia component="img" alt="logo" />
       </Box>
       <div>
         <p className={classes.intro}>Online Asset Management</p>
