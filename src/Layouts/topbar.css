@@ -1,0 +1,56 @@
+.btn-button1 {
+  margin-left: 1.6rem;
+  background-color: #a4a8a4;
+  border: 1px solid rgb(0, 5, 0);
+  color: white;
+  padding: 7px -1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  float: left;
+}
+.btn-button2 {
+  background-color: #d61515;
+  border: 1px solid rgb(0, 5, 0);
+  color: white;
+  padding: 7px -1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  float: left;
+}
+.btn-buttom3 {
+  background-color: #d61515;
+  border: 1px solid rgb(0, 5, 0);
+  color: white;
+  padding: 7px -1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  float: left;
+}
+.btn-buttom4 {
+  margin-left: 5rem;
+  background-color: #a4a8a4;
+  border: 1px solid rgb(0, 5, 0);
+  color: white;
+  padding: 10px -1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  float: left;
+}
+.messageLogOut {
+  margin-bottom: 2rem;
+}
+.messageLogOut > button.btn-danger.btn.btn-primary {
+  margin-left: 1rem;
+}

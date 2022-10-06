@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.MuiDataGrid-root .MuiDataGrid-columnHeader:focus,
+.MuiDataGrid-root .MuiDataGrid-cell:focus {
+  outline: none !important;
+}
+.MuiDataGrid-root .MuiDataGrid-cell:hover {
+  cursor: pointer;
+}
+.header-component-text {
+  margin: 1rem;
+  color: #f83245;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.formBasicTitleCreateAsset {
+  margin-left: 4.2rem;
+}
+#root
+  > div
+  > div.MuiGrid-root.MuiGrid-container.css-11lq3yg-MuiGrid-root
+  > div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-9.css-1qpzhgb-MuiGrid-root
+  > div
+  > div
+  > div
+  > form
+  > div:nth-child(5)
+  > div
+  > div.MuiFormGroup-root.css-dmmspl-MuiFormGroup-root {
+  margin-left: 3.5rem;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: #f83245;
+}
+.field-login {
+  width: 260px;
+  /* max-width: 260px; */
+}
+#inputGroup-sizing-default {
+  display: flex;
+}
+#formBasicTitleCreateUser {
+  margin-left: 7px;
+  margin-right: -8px;
+}
